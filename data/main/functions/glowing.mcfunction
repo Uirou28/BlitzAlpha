@@ -1,0 +1,1 @@
+effect give @a glowing 600 5 true
