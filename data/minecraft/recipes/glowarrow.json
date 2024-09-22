@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "iii",
+      "iIi",
+      "iii"
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:gold_ingot"
+      },
+      "i": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "result": {
+      "item": "minecraft:spectral_arrow","count": 8
+    }
+  }
